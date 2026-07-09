@@ -1,0 +1,6 @@
+![Java](https://img.shields.io/badge/Java-17-blue)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-brightgreen)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-Repository-success)
+![Hibernate](https://img.shields.io/badge/Hibernate-ORM-brown)
+![REST API](https://img.shields.io/badge/REST-API-red)
+![Maven](https://img.shields.io/badge/Maven-Build_Tool-C71A36)
