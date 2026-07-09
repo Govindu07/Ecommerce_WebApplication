@@ -12,3 +12,9 @@
 ![HTML5](https://img.shields.io/badge/HTML5-Markup-E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E)
+
+![MySQL](https://img.shields.io/badge/MySQL-8-orange)
+
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-181717)
+![Postman](https://img.shields.io/badge/Postman-API_Testing-FF6C37)
