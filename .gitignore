@@ -1,0 +1,17 @@
+# IntelliJ
+.idea/
+
+# Backend
+ecommerce-backend/target/
+ecommerce-backend/.mvn/
+
+# Frontend
+ecommerce-frontend/node_modules/
+ecommerce-frontend/build/
+
+# Environment
+**/.env
+
+# OS
+.DS_Store
+Thumbs.db
