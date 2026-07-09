@@ -3,18 +3,6 @@
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-Repository-success)
 ![Hibernate](https://img.shields.io/badge/Hibernate-ORM-brown)
 ![REST API](https://img.shields.io/badge/REST-API-red)
-![Maven](https://img.shields.io/badge/Maven-Build_Tool-C71A36)
-
 ![React](https://img.shields.io/badge/React-19-61DAFB)
-![React Router](https://img.shields.io/badge/React_Router-Routing-CA4245)
-![Axios](https://img.shields.io/badge/Axios-API_Client-5A29E4)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3)
-![HTML5](https://img.shields.io/badge/HTML5-Markup-E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E)
-
 ![MySQL](https://img.shields.io/badge/MySQL-8-orange)
-
-![Git](https://img.shields.io/badge/Git-Version_Control-F05032)
-![GitHub](https://img.shields.io/badge/GitHub-Repository-181717)
 ![Postman](https://img.shields.io/badge/Postman-API_Testing-FF6C37)
